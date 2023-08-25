@@ -30,6 +30,7 @@ Reference Guide for Bootcamp; built from the ground up using HTML and CSS.
 
 ## 5:
 - Decide on media queries and how to implement them.
+- Do media query things...
 
 ## 6:
 - We want clean, effecient code, that requires the least amount of work, clutter, and time spent, while being *efficient and scaleable*(scalability is the key to large, lucrative projects!). 
