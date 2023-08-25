@@ -8,15 +8,14 @@ Reference Guide for Bootcamp; built from the ground up using HTML and CSS.
 - Choose CSS selectors and Attribute selectors to for scalability
  - define tooltip style and format
  - define image styling and hyperlink styling
-- Decide on pseudo elements
- - (icons, images, special text)
+- Decide on pseudo elements (icons, images, special text)
 - Decide on page format (spacing, borders, flex boxes, where images will go in, what will be a hyperlink, etc. )
 -  Decide on using "buttons" with hyperlinks to other ref-guides, or to make the ref-guide a single document with extending hyperlinks for additional information.
 
 ## 2:
 
 - Collect and organize all images intended to be used. Store in /assets/images/
- - Collect and organize all hyperlinks intended to be used. Store them in HTML or README for ease of access.
+    - Collect and organize all hyperlinks intended to be used. Store them in HTML or README for ease of access.
  
 ## 3:
 - Design page layout, and add elements to CSS
@@ -26,7 +25,7 @@ Reference Guide for Bootcamp; built from the ground up using HTML and CSS.
 
 ## 4:
 - Decide on content to be used and defined in each section (i.e. what sequences and processes to include, what html tags to define, what css elements to define, *what part of each sections is worth including and will be most effective in a reference guide*)
-- 
+
 
 ## 5:
 - Decide on media queries and how to implement them.
