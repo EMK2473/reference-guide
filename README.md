@@ -11,6 +11,8 @@ Reference Guide for Bootcamp; built from the ground up using HTML and CSS.
 - Decide on pseudo elements
  - (icons, images, special text)
 - Decide on page format (spacing, borders, flex boxes, where images will go in, what will be a hyperlink, etc. )
+-  Decide on using "buttons" with hyperlinks to other ref-guides, or to make the ref-guide a single document with extending hyperlinks for additional information.
+
 ## 2:
 
 - Collect and organize all images intended to be used. Store in /assets/images/
@@ -22,14 +24,14 @@ Reference Guide for Bootcamp; built from the ground up using HTML and CSS.
 - Design "term" layout and "definition" layout (consider using tooltips or pseudo elements).
 - Decide and develop Hover, Active, and Focus pseudo elements.
 
-## 4
+## 4:
 - Decide on content to be used and defined in each section (i.e. what sequences and processes to include, what html tags to define, what css elements to define, *what part of each sections is worth including and will be most effective in a reference guide*)
 - 
 
-## 5
+## 5:
 - Decide on media queries and how to implement them.
 
-## 6
+## 6:
 - We want clean, effecient code, that requires the least amount of work, clutter, and time spent, while being *efficient and scaleable*(scalability is the key to large, lucrative projects!). 
 - Focus on proper sequencing to complete this project.
 - Don't put this project ahead of anything for the bootcamp-- *this is meant to be a project to practice, and implement, what we learned from the bootcamp in a stress free environment.
