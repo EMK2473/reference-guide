@@ -3,7 +3,7 @@ Reference Guide for Bootcamp; built from the ground up using HTML and CSS.
 
 # What needs to be done:
 ## 1:
-- Design CSS variables and schemes for scalability:
+- Design CSS Stylesheet, focusing on variables and schemes for scalability:
     - Decide on colors, font style, box designs, border styles, etc. (all the Stlying needs to be defined ahead of time and variables added to the root before developing the rest of the site)
 - Choose CSS selectors and Attribute selectors to for scalability
  - define tooltip style and format
