@@ -1,3 +1,63 @@
+/* Here is where we need to set a color scheme */
+
 :root{
-    
-}
+    --color:#fff;
+    --darkblue:var(--darkblue);
+    --border-rad: 50px;
+  }
+  /* Here we will use NON-Class and NON-ID css */
+  body {
+
+  }
+
+  h1 {
+
+  }
+
+  h2{
+
+
+  }
+
+  header {
+
+  }
+
+  nav{
+
+  }
+
+
+  main{
+
+  }
+
+  footer{
+
+  }
+
+
+
+/* here we will being our Classes and IDs */
+.class-1
+
+
+
+.class-2
+
+
+#ID-1
+
+
+
+#ID-2
+
+
+
+
+/* here we will do our CSS selectors and Attribute Selectors */
+
+
+
+
+/* here we will do our media queries */
